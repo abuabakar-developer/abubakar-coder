@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "outfit", sans-serif;
+}
+body {
+  background: black;
+}
+h1,
+h4,
+p,
+a {
+  color: white;
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+}
+.btn {
+   padding: 12px 32px;
+   font-size: 1rem;
+   background-color: chocolate;
+   border: 1px solid white;
+   cursor: pointer;
+   text-transform: uppercase;
+   font-weight: 500;
+
+}
+.btn-light {
+  background-color: transparent;
+  color: white;
+}
+.btn:hover {
+  background-color:chocolate;
+  color: white;
+  transition: 0.2s;
+  font-size: 1.1rem;
+
+}
+.about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 2px solid white;
+  border: 1px solid white;
+  padding-top: 3rem;
+  margin-top: 3rem;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 2rem ;
+  margin-right: 2rem;
+  padding-right: 2rem;
+  padding-left: 2rem;
+  
+  
+}
+.about-head {
+  background-color: magenta;
+  width: 60%;
+  justify-content:center;
+  text-align: center;
+  align-items: center;
+  padding-top: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  font-size: 4rem;
+  font-weight: 600;
+}
+.about-head h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2.1rem;
+}
+.about-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding-top: 1rem;
+  padding-top: 1rem;
+  border-left:pink;
+}
+.lists {
+  padding-top: 0.4rem;
+  margin-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  width: 100%;
+  border-bottom: 1px solid white;
+}
+.lists:first-child {
+  border-top: 2px solid white;
+}
+.project-container{
+  width: 100%;
+  height: 60%;
+  
+}
+
+.project-title {
+  
+}
+.project-card {
+  display: flex;
+  flex-direction: column;
+  margin-top: 3rem;
+  padding-top: 7rem;
+}
+.project-title {
+  color: white;
+  padding: 3rem;
+  width: 40%;
+  background-color: darkviolet;
+  height: 15px;
+  margin: 3rem;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+
+
+.project-title h2 {
+  font-size: 2rem;
+
+}
+.project-title img {
+  width: 60%;
+  height: 60%;
+}
+.pro-btns {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 2rem;
+   
+}
+.btnd {
+  width: 20%;
+  height: 30px;
+  font-size: large;
+  background-color:chocolate;
+  color:white;
+  text-align: center;
+  justify-content: center;
+
+}
+.header h2 {
+  text-align: center;
+  align-items: center;
+}
+.heading h1 {
+  color: darkred;
+  padding-top: 1rem;
+
+
+}
+.heading p {
+  padding-top: 1rem;
+  font-size: 29px;
+  color:lightblue;
+}
+.hero-img2 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 2rem;
+  margin: 2rem;
+}
+
+
+
+
+
+
+
+
+
+

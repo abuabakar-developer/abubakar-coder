@@ -1,0 +1,69 @@
+.footer {
+    width: 100%;
+    background-color: rgba(19, 19, 19, 0.8);
+    padding: 6rem 2rem; 
+}
+
+.footer-container {
+    max-width: 1040px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between;
+}
+h4 {
+    color: cornflowerblue;
+    font-size: 20px;
+}
+
+.left, .right {
+    flex: 1; 
+    max-width: 100%;
+    padding: 1rem;
+    margin: 1rem 0; 
+    border: 1px solid white;
+}
+
+@media screen and (min-width: 641px) {
+    .left, .right {
+        max-width: 48%; 
+    }
+}
+
+.location p {
+    line-height: 1.5;
+}
+
+.social {
+    margin-top: 1rem;
+    border-bottom: 2px solid white;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 530px) {
+    .left, .right {
+        max-width: 100%; 
+    }
+.footer-container {
+        
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
