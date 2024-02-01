@@ -33,9 +33,9 @@
 .section p {
   padding: 1rem 0;
 }
-
-ul {
-  list-style-type: none;
+.section li {
+  color: magenta;
+   font-size: 30px;
 }
 
 @media screen and (max-width: 750px) {
