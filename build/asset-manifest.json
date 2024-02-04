@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abuabakar-cody/static/css/main.0e363249.css",
+    "main.js": "/abuabakar-cody/static/js/main.694ed57a.js",
+    "static/media/ab.jpg": "/abuabakar-cody/static/media/ab.e1665ce4dd1f2976b302.jpg",
+    "static/media/hero.jpg": "/abuabakar-cody/static/media/hero.182ae24339e532f2823f.jpg",
+    "index.html": "/abuabakar-cody/index.html",
+    "main.0e363249.css.map": "/abuabakar-cody/static/css/main.0e363249.css.map",
+    "main.694ed57a.js.map": "/abuabakar-cody/static/js/main.694ed57a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e363249.css",
+    "static/js/main.694ed57a.js"
+  ]
+}
